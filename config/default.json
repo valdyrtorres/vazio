@@ -1,3 +1,3 @@
 {
-    "DBHost": "mongodb://root:123456@jello.modulusmongo.net:27017/ity3Ryje"
+    "DBHost": "mongodb://vtorres:test@ds235840.mlab.com:35840/starwars-mlab"
 }
